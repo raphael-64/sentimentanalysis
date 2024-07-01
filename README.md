@@ -1,2 +1,2 @@
 # Sentiment Analysis for Financial Application
-About my project:
+Welcome to my project!
